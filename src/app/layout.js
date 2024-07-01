@@ -10,10 +10,7 @@ export default function RootLayout({ children }) {
         <head>
           <meta charSet="UTF-8" />
           <link rel="icon" type="image/svg+xml" href="/assets/favicon.ico" />
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=0.5"
-          />
+          <meta name="viewport" content="width=device-width" />
           <title>Nike</title>
         </head>
       </head>
